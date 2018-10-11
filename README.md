@@ -14,10 +14,9 @@
 ### Result 
 Given a URL from PTT Gossiping, it generates a new HTML file. In the new HTML, it changes the color of the useless comments. We give each user who is in our dataset a credit score. Finally, we also judge whether the article is shit posting, if yes, it will be given a "Shitposting Mark.
 
-![result](https://www.dropbox.com/s/54zjgppwikcc6sl/comment.png)
+![result](https://github.com/ZTingLiu/Data-Science-Project/blob/master/img/comment.png?raw=true)
 
-![result](https://www.dropbox.com/s/e3030crhxapoot9/shitposting.png)
+![result](https://github.com/ZTingLiu/Data-Science-Project/blob/master/img/shitposting.png?raw=true)
 
-<img src="https://www.dropbox.com/s/54zjgppwikcc6sl/comment.png?dl=0">
 ### Note
 I don't organize all files, it is a little hard to understand the function of each file. In the future, I will fix this problem. If you have any question, please feel free to contact me.
