@@ -17,6 +17,3 @@ Given a URL from PTT Gossiping, it generates a new HTML file. In the new HTML, i
 ![result](https://github.com/ZTingLiu/Data-Science-Project/blob/master/img/comment.png?raw=true)
 
 ![result](https://github.com/ZTingLiu/Data-Science-Project/blob/master/img/shitposting.png?raw=true)
-
-### Note
-I don't organize all files, it is a little hard to understand the function of each file. In the future, I will fix this problem. If you have any question, please feel free to contact me.
